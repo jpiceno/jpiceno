@@ -6,7 +6,7 @@ Hi there! 👋 I'm Jesus Piceno, an IT professional with experience in cloud com
 
 ## 📜 My Resume
 
-You can find my full resume [here](https://github.com/username/resume.pdf) or view the highlights below:
+You can find my full resume [here](https://github.com/jpiceno/resume/blob/main/README.md) or view the highlights below:
 
 ### Professional Experience
 - **Cloud Support Engineer** at Elevation Education Solutions LLC  
