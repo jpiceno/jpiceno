@@ -23,7 +23,7 @@ Key Features:
 - Exports results in CSV for further analysis.
 - Simplifies admin workflows with automated sync scripts.
 
-### [BitLocker Deployment Script](https://github.com/username/bitlocker-deployment)
+### [PowerShell BitLocker Encryption](https://github.com/jpiceno/powershellBitLockerEncryption)
 *Streamlines BitLocker encryption deployment for Windows devices.*  
 Key Features:
 - Enables encryption with XtsAes256 by default.
