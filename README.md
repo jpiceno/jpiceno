@@ -7,34 +7,14 @@ Hi there! 👋 I'm Jesus Piceno, an IT professional with experience in cloud com
 ## 📜 My Resume
 
 You can find my full resume [here](https://github.com/jpiceno/resume/blob/main/README.md) or view the highlights below:
-
-### Professional Experience
-- **Cloud Support Engineer** at Elevation Education Solutions LLC  
-  *Provided support for cloud infrastructure and implemented cost-efficient solutions.*
-- **Desktop Support Specialist** at SchoolsFirst Federal Credit Union  
-  *Handled desktop and system administration for over 500 users.*
-- **IT System Administrator** at Astronics Test Systems  
-  *Led IT projects and managed Active Directory, Exchange, and network security.*
-
-### Skills
-- **Cloud Computing:** Azure, AWS, Microsoft 365 Administration  
-- **Scripting & Automation:** PowerShell, Batch Scripting, KACE  
-- **System Administration:** Active Directory, Group Policy, BitLocker  
-- **Tools & Monitoring:** Splunk, Carbon Black, Microsoft Defender  
-- **Certifications:** [CompTIA A+](link-to-certificate), [Network+](link-to-certificate), [Azure Fundamentals](link-to-certificate)
-
----
+## EDUCATION & IT CERTIFICATIONS
+**Bachelor of Science in Cloud Computing** - Western Governors University *(Expected April 2026)*
+- Relevant Coursework: IT Applications, Network and Security Foundations, Scripting and Programming, Cloud Foundations, and Cryptography.  
+- Certifications: **CompTIA A+, Network+, Security+, ITIL4 Foundations**
 
 ## 🚀 Featured Projects
 
 Here are some of my favorite projects:
-
-### [Azure Removable Storage Setup](https://github.com/username/azure-removable-storage-setup)
-*Automates the setup of removable storage in Azure environments.*  
-Key Features:
-- Configures Azure Blob Storage for removable devices.
-- Includes PowerShell scripts for secure access setup.
-- Monitors storage usage with detailed reports.
 
 ### [PowerShell AD Comparison Tool](https://github.com/username/powershell-ad-comparison)
 *Compares and synchronizes Active Directory attributes.*  
@@ -49,14 +29,7 @@ Key Features:
 - Enables encryption with XtsAes256 by default.
 - Automatically backs up recovery keys to a secure location.
 - Includes error handling and logging for troubleshooting.
-
-### [InDesign Crash Log Analyzer](https://github.com/username/indesign-crash-log-analyzer)
-*Analyzes Adobe InDesign crash logs for root cause analysis.*  
-Key Features:
-- Filters and parses log files to identify patterns.
-- Highlights common error codes and modules.
-- Outputs reports for team collaboration.
-
+- Encrypts all hard drives on the host
 ---
 
 ## 🔗 Explore More Repositories
@@ -64,9 +37,6 @@ Key Features:
 Here are some other projects I’ve worked on:
 
 - [Splunk Reboot Analysis Dashboard](https://github.com/username/splunk-reboot-analysis)
-- [ServiceNow Dashboard for Team Performance](https://github.com/username/servicenow-dashboard)
-- [Network+ Study Guide & Notes](https://github.com/username/networkplus-study-guide)
-- [Microsoft 365 Endpoint Services Management](https://github.com/username/m365-endpoint-services)
 
 ---
 
