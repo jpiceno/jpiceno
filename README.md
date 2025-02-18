@@ -16,7 +16,7 @@ You can find my full resume [here](https://github.com/jpiceno/resume/blob/main/R
 
 Here are some of my favorite projects:
 
-### [PowerShell AD Comparison Tool](https://github.com/username/powershell-ad-comparison](https://github.com/jpiceno/compareADUserAccounts)
+### [PowerShell AD Comparison Tool](https://github.com/jpiceno/compareADUserAccounts)
 *Compares and synchronizes Active Directory attributes.*  
 Key Features:
 - Identifies discrepancies between AD environments.
