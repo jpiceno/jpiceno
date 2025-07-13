@@ -1,7 +1,22 @@
-# Welcome to My Portfolio
+### 👋 Hi there! I'm Jesus Piceno
 
-Hi there! 👋 I'm Jesus Piceno, an IT professional with experience in cloud computing, systems administration, scripting, and more. This repository is a central hub for showcasing my resume, skills, and technical projects. Feel free to explore and reach out if you'd like to collaborate!
+I'm an IT professional passionate about endpoint management, security, and automation—particularly through Microsoft Intune.
 
+This repository serves as a portfolio to showcase my work across key focus areas like:
+
+---
+
+#### 🛡️ Security & Compliance
+- Aligning endpoint configurations with **CIS** and **NIST** benchmarks  
+- Enforcing **full disk encryption**, **OS patch compliance**, and **antivirus/EDR** standards  
+- Remediating misconfigurations using **policy-based enforcement**, **custom compliance scripts**, and **Intune Remediations**
+
+---
+
+#### 🔧 Tooling & Automation
+- Automating provisioning, updates, and configuration drift remediation through **PowerShell**, **Python**, and **Swift scripting**  
+- Building scalable scripts and **Intune policies** to simplify endpoint management  
+- Integrating telemetry with **SIEM** and **EDR** platforms to enhance visibility and response  
 ---
 
 ## 📜 My Resume
